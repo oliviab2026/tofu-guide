@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oliviab2026.github.io/tofu-guide/sitemap.xml
