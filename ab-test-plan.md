@@ -1,6 +1,7 @@
 **The Plan**  
 I will change the header image on https\://oliviab2026.github.io/tofu-guide/tofu-in-air-fryer.html. Version A (current) will show this illustration, followed by the recipe:
 ![tofu illustration](air-fryer-tofu-illustration.png)
+
 What You Need
 
 * 1 block (14 to 16 oz) extra-firm or firm tofu  
@@ -23,6 +24,7 @@ Step by Step
 
 Version B will show this photograph, followed by the recipe:   
 ![tofu photograph](air-fryer-tofu-photograph.jpg)  
+
 What You Need
 
 * 1 block (14 to 16 oz) extra-firm or firm tofu  
