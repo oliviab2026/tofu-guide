@@ -35,13 +35,13 @@ What You Need
 
 Step by Step
 
-8. **Press the tofu.** Wrap the block in a clean kitchen towel, set a heavy pan on top, and press for 20 to 30 minutes. Less water means a crispier result.  
-9. **Cut it.** Slice into 3/4-inch cubes. Smaller pieces get crunchier, while larger ones stay softer inside.    
-10. **Season.** Toss the cubes gently with the soy sauce and oil. Let them sit for 5 minutes.   
-11. **Coat.** Sprinkle on the cornstarch, garlic powder, paprika, and pepper. Toss until each cube has a light, even dusting.  
-12. **Preheat.** Heat the air fryer to 400°F (200°C) for 3 minutes if your model has a preheat setting.  
-13. **Cook.** Arrange the cubes in a single layer with space between them. Cook for 12 to 15 minutes, shaking the basket or flipping the pieces at the halfway point.  
-14. **Check.** The tofu is done when the edges are deep golden and the cubes feel firm and crisp when tapped. Add 2 to 3 minutes if needed.
+1. **Press the tofu.** Wrap the block in a clean kitchen towel, set a heavy pan on top, and press for 20 to 30 minutes. Less water means a crispier result.  
+2. **Cut it.** Slice into 3/4-inch cubes. Smaller pieces get crunchier, while larger ones stay softer inside.    
+3. **Season.** Toss the cubes gently with the soy sauce and oil. Let them sit for 5 minutes.   
+4. **Coat.** Sprinkle on the cornstarch, garlic powder, paprika, and pepper. Toss until each cube has a light, even dusting.  
+5. **Preheat.** Heat the air fryer to 400°F (200°C) for 3 minutes if your model has a preheat setting.  
+6. **Cook.** Arrange the cubes in a single layer with space between them. Cook for 12 to 15 minutes, shaking the basket or flipping the pieces at the halfway point.  
+7. **Check.** The tofu is done when the edges are deep golden and the cubes feel firm and crisp when tapped. Add 2 to 3 minutes if needed.
 
 (Photograph source: [https\://jessicainthekitchen.com/how-to-make-crispy-air-fryer-tofu/](https://jessicainthekitchen.com/how-to-make-crispy-air-fryer-tofu/))
 
