@@ -22,7 +22,7 @@ Step by Step
 7. **Check.** The tofu is done when the edges are deep golden and the cubes feel firm and crisp when tapped. Add 2 to 3 minutes if needed.
 
 Version B will show this photograph, followed by the recipe:   
-![tofu photograph][air-fryer-tofu-photograph.jpg]  
+![tofu photograph](air-fryer-tofu-photograph.jpg)  
 What You Need
 
 * 1 block (14 to 16 oz) extra-firm or firm tofu  
